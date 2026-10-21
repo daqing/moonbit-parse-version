@@ -1,0 +1,5 @@
+// import {
+//   "daqing/parse-version" @lib,
+// }
+
+pkgtype(kind: "executable")

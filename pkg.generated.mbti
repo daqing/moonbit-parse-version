@@ -1,0 +1,18 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "daqing/parse-version"
+
+// Values
+
+// Errors
+pub suberror VersionError {
+  VersionNotFound(String)
+}
+
+// Types and methods
+pub struct Version {
+}
+pub fn Version::parse(String) -> String raise
+
+// Type aliases
+
+// Traits
